@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: aliceblue;
+}
+
+p {
+  background-color: grey;
+  padding: 10px;
+  color: black;
+}
